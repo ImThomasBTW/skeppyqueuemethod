@@ -1,0 +1,13 @@
+{
+  "name": "skeppyqueue-discord",
+  "version": "1.0.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.0.1",
+    "wait-until": "0.0.2",
+    "mineflayer": "^2.0.0",
+    "mineflayer-navigate": "^0.0.10"
+  },
+  "main": "index.js",
+  "author": "Dreaaam"
+}
