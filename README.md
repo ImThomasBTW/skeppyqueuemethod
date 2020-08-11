@@ -1,3 +1,1 @@
-U need to create a discord bot and get his token by searching in any discord bot tutorial videos and paste in discord bot in the last line in the code, then put ur email and password
-then upload it all to heroku and the active node index.js in resources and the bot should be online and in pvplands, then u just do /send /joinqueue event- the event u want for example:
-/joinqueue event-gold
+Download all the files an edit index.js and on discord token u need to get ur discord bot token and under email and password u put the account that u want to queue, upload that files, after this u create an account at https://signup.heroku.com/ and create a new app at https://dashboard.heroku.com/new-app, connect ur github account and deploy the branch with the files that u just uploaded an active node index.js under resources and the bot should be on and on pvplands, just do /send /joinqueue event-(gold,sky,emerald, etc.) and it should be good.
